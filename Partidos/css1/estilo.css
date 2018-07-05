@@ -1,0 +1,37 @@
+/*$color:rgb(123, 189, 37);
+$color1:rgb(189, 37, 83);
+$color2:rgb(112, 117, 105);
+$color3:rgb(216, 238, 15);*/
+/*body{
+
+   color: $color; 
+}*/
+/*body{
+
+   color: $color; 
+}*/
+ul {
+  background-color: #153ca7;
+}
+ul li {
+  background-color: #bd2553;
+}
+ul li a {
+  background-color: #707569;
+}
+
+a[href="www.youtube.com"] {
+  color: #d8ee0f;
+}
+
+a:hover {
+  color: #bd2553;
+}
+
+div[role=main] {
+  float: left;
+  width: 62.5%;
+  background-color: blue;
+}
+
+/*# sourceMappingURL=estilo.css.map */
